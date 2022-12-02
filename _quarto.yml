@@ -15,9 +15,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - resume.qmd
-      - gallery.qmd
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: gallery.qmd
+        text: Gallery
 
 format:
   html:
