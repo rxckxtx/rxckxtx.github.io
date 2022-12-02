@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
+  page-footer:
+    left: "R"
+    right:
+      - icon: github
+        href: https://github.com/rxckxtx
+    
   title: "Ricardo Arana"
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - gallery.qmd
 
 format:
   html:
