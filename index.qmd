@@ -2,6 +2,8 @@
 title: "rxckxtx.github.io"
 ---
 
-This is a Quarto website.
+Hello, welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](TEMP/1E6943D1-8972-4206-99DE-80676F275BFC.jpg){fig-align="left"}
+
+My name is Ricardo Arana and I am a computer science major.
