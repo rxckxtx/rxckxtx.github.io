@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-I am 22 years old go to school full time and I work full time at H&M. I began my educational career at Santa Barbara City College and earned AS degrees in Computer Science, Physics, and Mathematics. I like to play spikeball on my days off from work and school. I have a dog named Riley, she is a German Ghephard & Husky mix and goes everywhere I go. 
+Hello, I am 22 years old and I live in Santa Barbara. I commute and attend school full time at CSUCI and work full time. I began my educational career at Santa Barbara City College and earned AS degrees in Computer Science, Physics, and Mathematics. I like to play spikeball on my days off from work and school. I have a dog named Riley, she is a German Ghephard & Husky mix and goes everywhere I go. 
