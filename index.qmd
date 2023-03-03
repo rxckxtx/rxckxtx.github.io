@@ -1,5 +1,5 @@
 ---
-title: "rxckxtx.github.io"
+title: ""
 ---
 
 Hello, welcome to my website!
